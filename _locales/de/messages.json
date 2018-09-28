@@ -28,7 +28,7 @@
     "description": "Show icon badge title."
   },
   "showIconBadgeDescription": {
-    "message": "Zeige die Anzahl der injizierten Ressourcen im Erweiterungs-Icon.",
+    "message": "Zeige Anzahl injizierter Ressourcen im Erweiterungs-Icon",
     "description": "Show icon badge description."
   },
   "blockMissingTitle": {
